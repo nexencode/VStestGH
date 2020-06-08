@@ -11,6 +11,8 @@ namespace VstestGh
         static void Main(string[] args)
         {
             Console.WriteLine("This is master brench");
+
+            Console.WriteLine("This is Darko branch");
         }
     }
 }
