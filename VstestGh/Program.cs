@@ -10,6 +10,7 @@ namespace VstestGh
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is master brench");
         }
     }
 }
